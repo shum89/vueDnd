@@ -4,7 +4,7 @@
        @dragover.prevent="dragOver"
        @dragleave.prevent="dragLeave"
        @drop.prevent="drop($event)">
-    <h1 v-if="!isDragging">Дропнуть изображение</h1>
+    <h1 v-if="!isDragging">Перенесите изображение</h1>
   </div>
   <div class="drop-field__container">
     <h2 v-if="wrongFile">Неправильный формат файла</h2>
