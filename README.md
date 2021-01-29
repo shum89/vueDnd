@@ -10,6 +10,8 @@
 
 :white_check_mark: повторно нельзя перетащить один и тот же файл
 
+ссылка на GithubPages:  https://shum89.github.io/vueDnd/
+
 
 ## Project setup
 ```
